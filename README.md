@@ -32,6 +32,19 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+# About The Website
+This is the quiz taking website with different level question.
+<img width="776" alt="2022-10-01" src="https://user-images.githubusercontent.com/93537069/193398794-ee3cbddb-1aa6-4d4e-b91d-854e6466b447.png">
+
+
+###  You can also pick as many question as you want with 13 ifferent topics.
+<img width="315" alt="2022-10-01 (1)" src="https://user-images.githubusercontent.com/93537069/193398788-57c28256-55a4-473d-be05-7edc9a4b7f03.png">
+
+### And with different difficulty level
+
+<img width="307" alt="2022-10-01 (2)" src="https://user-images.githubusercontent.com/93537069/193398793-c224d46a-93da-4959-a72e-af74534512a5.png">
+
+Just click on " START " to continue with quiz.
 
 ## :heart: Contribution
 If you want to contribute to the project, the first thing you need to do is create an issue with the problem/future that you want to add. When you are assigned (meaning the issue has been approved) you can fork this repo and begin working on the project.
