@@ -1,7 +1,17 @@
 # Quiz App
-QuizApp is a free and open-source quiz application that lets you play fully customized quizzes right in the browser.
+Welcome to QuizApp, a web-based application that allows users to participate in quizzes on various topics. This project aims to provide an interactive and educational platform for users to test their knowledge and learn new things
 
-## Getting Started
+### Features
+- **Quiz Categories:** Explore a wide range of quiz categories, including General Knowledge, Science, History, and more.
+- **Multiple Choice Questions:** Answer multiple-choice questions within a specific time limit.
+- **Score Tracking:** Track your score as you progress through the quiz and see your final result.
+- **User Authentication:** Create an account or log in to keep track of your quiz history and achievements.
+- **Quiz Creation:** Create and submit your own quizzes for others to participate in.
+- **Quiz Review:** Review the questions and correct answers after completing a quiz.
+- **Mobile Responsive:** Enjoy the QuizApp experience on your mobile devices as well.
+
+
+### Getting Started
 
 1. Install Dependencies
 
@@ -21,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-## Deployment
+### Deployment
 
 ```bash
 npm run build
@@ -32,24 +42,24 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# About The Website
-This is the quiz taking website with different level question.
+### About The Website
+This is the quiz-taking website with different-level questions.
 <img width="776" alt="2022-10-01" src="https://user-images.githubusercontent.com/93537069/193398794-ee3cbddb-1aa6-4d4e-b91d-854e6466b447.png">
 
 
-###  You can also pick as many question as you want with 13 ifferent topics.
+###  You can also pick as many questions as you want with 13 different topics.
 <img width="315" alt="2022-10-01 (1)" src="https://user-images.githubusercontent.com/93537069/193398788-57c28256-55a4-473d-be05-7edc9a4b7f03.png">
 
 ### And with different difficulty level
 
 <img width="307" alt="2022-10-01 (2)" src="https://user-images.githubusercontent.com/93537069/193398793-c224d46a-93da-4959-a72e-af74534512a5.png">
 
-Just click on " START " to continue with quiz.
+Just click on " START " to continue with the quiz.
 
-## :heart: Contribution
+### :heart: Contribution
 If you want to contribute to the project, the first thing you need to do is create an issue with the problem/future that you want to add. When you are assigned (meaning the issue has been approved) you can fork this repo and begin working on the project.
 
 When you are done, you can create a pull request explaining what you've done and what issue you are closing (adding a reference to it).
 
-After that, if your PR follows the code style and fix or add something to the project will be merged inside the project.
+After that, if your PR follows the code style and fixes or adds something to the project will be merged inside the project.
 
