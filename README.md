@@ -12,24 +12,33 @@ Welcome to QuizApp, a web-based application that allows users to participate in 
 
 
 ### Getting Started
+To run QuizApp locally on your machine, follow these steps:
+- Clone the repository:
+```
+git clone https://github.com/mohitjaisal/quizapp.git
+```
 
-1. Install Dependencies
+- Navigate to the project directory:
+```
+cd quiz app
+```
 
- ```bash
- npm install
- ```
-Download and install [Node.js](https://nodejs.org/en/#download). Note that npm is also installed, so if you are going to use it, you are through with the preliminary steps.
+- Install the dependencies:
+```
+npm install
+```
 
-2. Fire Up the Local Server
-```bash
+- Set up the environment variables:
+
+Rename the .env.example file to .env.
+Fill in the required values for the environment variables.
+
+- Start the development server:
+```
 npm start
 ```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Open your browser and visit http://localhost:3000 to access QuizApp.
 
 ### Deployment
 
