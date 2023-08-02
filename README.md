@@ -51,6 +51,17 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Usage
+Once you have the application up and running, here are a few pointers on how to use QuizApp:
+
+- Browse the available quiz categories or search for a specific topic.
+- Click on a quiz to start answering the questions.
+- Read each question carefully and select your answer from the options provided.
+- Submit your answers before the time limit expires.
+- Once the quiz is complete, you will see your score and the correct answers.
+- Check the leaderboard to see how your score compares to other participants.
+- Create an account or log in to access additional features like submitting your own quizzes and tracking your progress.
+
 ### About The Website
 This is the quiz-taking website with different-level questions.
 <img width="776" alt="2022-10-01" src="https://user-images.githubusercontent.com/93537069/193398794-ee3cbddb-1aa6-4d4e-b91d-854e6466b447.png">
